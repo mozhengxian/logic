@@ -1,0 +1,3 @@
+*.py[ocd]
+*.idea
+*__.pycache__
